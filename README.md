@@ -1,5 +1,7 @@
 # FirechatApp
 
+A realtime group chat app with Firestore and Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
 ## Development server
