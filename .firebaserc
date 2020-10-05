@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-chat-app-706c9": {
+      "hosting": {
+        "firechat-app": [
+          "fire-chat-app-706c9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-chat-app-706c9"
+  }
+}
